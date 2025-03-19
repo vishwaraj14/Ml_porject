@@ -1,0 +1,17 @@
+setup.py
+Ml_project.egg-info/PKG-INFO
+Ml_project.egg-info/SOURCES.txt
+Ml_project.egg-info/dependency_links.txt
+Ml_project.egg-info/requires.txt
+Ml_project.egg-info/top_level.txt
+srcc/__init__.py
+srcc/exception.py
+srcc/logger.py
+srcc/utils.py
+srcc/components/__init__.py
+srcc/components/data_ingestion.py
+srcc/components/data_transformation.py
+srcc/components/model_trainer.py
+srcc/pipelines/__init__.py
+srcc/pipelines/prediction_pipeline.py
+srcc/pipelines/training_pipeline.py
